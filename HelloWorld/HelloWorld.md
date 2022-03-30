@@ -208,3 +208,4 @@ int Multiply(int a, int b)
 
 ### Linker
 
+서로 다른 obj 파일에 분산되어 있는 함수들을 이어주는 역할
